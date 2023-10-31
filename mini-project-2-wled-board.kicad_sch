@@ -6,7 +6,7 @@
 
   (title_block
     (title "WLED ESP32 Control Board")
-    (date "2023-06-18")
+    (date "2023-10-30")
     (rev "A")
   )
 
@@ -2308,6 +2308,9 @@
     (property "LCSC" "" (at 139.7 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser" "538-39544-3002" (at 139.7 128.27 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b0b0cf4d-d260-4621-850c-ef4047c20ce4))
     (pin "2" (uuid 68139d6c-b248-427e-9669-ecc5b2fbbdb8))
     (instances
@@ -3715,6 +3718,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "" (at 148.59 128.27 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser" "576-178.6764.0001" (at 148.59 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 090f8741-be93-45dd-abe2-539b95146b2a))

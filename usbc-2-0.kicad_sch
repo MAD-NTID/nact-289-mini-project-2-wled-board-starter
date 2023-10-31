@@ -1362,7 +1362,7 @@
     (property "Datasheet" "~" (at 102.87 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 102.87 43.18 0)
+    (property "LCSC" "C19702" (at 102.87 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9a103cef-f452-4cbf-9748-b8b3ec6acf16))
